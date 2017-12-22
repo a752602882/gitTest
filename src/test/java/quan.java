@@ -1,4 +1,4 @@
-public class Quan {
+public class quan {
 
 
     private String ticket_name;
@@ -9,7 +9,7 @@ public class Quan {
 
 
 
-    public Quan(String ticket_name, String progress, String is_have, String limit, String price){
+    public quan(String ticket_name, String progress, String is_have, String limit, String price){
 
         this.ticket_name =ticket_name;
         this.progress=progress;
