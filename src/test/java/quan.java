@@ -62,6 +62,7 @@ public class quan {
 
     @Override
     public String toString() {
+        System.out.println("SSSSSSSSSSSSSSSSSSSSSS");
         return "ticket_name"+ticket_name+"progress"+progress+"is_have"+is_have+"limit"+limit+"price"+price;
     }
 }
